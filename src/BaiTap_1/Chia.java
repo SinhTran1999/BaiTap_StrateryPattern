@@ -14,7 +14,7 @@ public class Chia implements ITinh{
     public float tinh(float a, float b) {
         if(b == 0)
         {
-            System.out.println("b phải != 0 => phép toán không thực hiện được");
+            System.out.println("b phải != 0=> phép toán không thực hiện được");
             return 0;
         }
         else
